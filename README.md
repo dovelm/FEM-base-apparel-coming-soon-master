@@ -31,14 +31,15 @@ Users should be able to:
 
 ### Screenshots
 
-![]()
+![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/desktop.png)
 
-![]()
+![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/desktop%20active.png)
 
+![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/mobile.png)
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dusvimarin.github.io/FEM-base-apparel-coming-soon-master)
 
 
 ## My process
