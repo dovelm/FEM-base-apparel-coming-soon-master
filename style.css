@@ -39,7 +39,7 @@ body{
 }
 .img-woman{
     width: 560px;
-    height: 710px;
+    height: auto;
 }
 .logo{
     margin:80px 0 70px 150px;
