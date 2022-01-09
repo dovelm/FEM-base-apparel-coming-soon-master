@@ -27,7 +27,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 Users should be able to:
 
-- Create a NFT preview card component 
+-  Base Apparel coming soon page
 
 ### Screenshots
 
