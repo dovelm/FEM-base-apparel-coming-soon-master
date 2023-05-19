@@ -38,11 +38,11 @@ body{
     width: 800px;
 }
 .img-woman{
-    width: 560px;
-    height: auto;
+    width: 520px;
+    height: 638px;
 }
 .logo{
-    margin:80px 0 70px 150px;
+    margin:60px 0 30px 150px;
 }
 .title, .title-one{
     font-size: 40px;
@@ -63,7 +63,7 @@ body{
     font-weight: 300;
 }
 .content-text{
-    margin: 30px 200px 35px 150px;
+    margin: 30px 200px 30px 150px;
     color:var(--primary-color);
     line-height: 2;
 }
@@ -90,8 +90,8 @@ form{
     color: var(--primary-color);
 }
 .input:focus{
-    outline-color:var(--secundary-font);
-}
+   outline-color:var(--secundary-font);
+} 
 .input:-webkit-autofill, .input:-webkit-autofill:hover, .input:-webkit-autofill:focus, .input:-webkit-autofill:active{
     box-shadow: 0 0 0 30px white inset;
 }
@@ -137,7 +137,7 @@ form.error .error-msg {
 }
 /*Footer*/
 footer{
-    margin-top: 20px;
+    margin-top: 6px;
     margin-bottom: 10px;
     color: var(--neutral-dark-grayish);
     font-weight: 500;
@@ -149,7 +149,7 @@ footer{
 .attribution a { 
     color:var( --secundary-font);
 }
-@media (max-width: 1000px) {
+@media (max-width: 1100px) {
     body{
         background:linear-gradient(135deg, #FFF8F4,#fff2f1);
     }
