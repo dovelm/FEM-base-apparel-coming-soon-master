@@ -35,7 +35,7 @@ Users should be able to:
 
 ![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/desktop%20active.png)
 
-![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/mobil.png)
+![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/mobile.png)
 
 ### Links
 
