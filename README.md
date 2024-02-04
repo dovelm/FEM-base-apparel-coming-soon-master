@@ -31,15 +31,15 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/desktop.png)
+![](https://github.com/dovelym/FEM-base-apparel-coming-soon-master/blob/main/screenshots/desktop.png)
 
-![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/desktop%20active.png)
+![](https://github.com/dovelym/FEM-base-apparel-coming-soon-master/blob/main/screenshots/desktop%20active.png)
 
-![](https://github.com/dusvimarin/FEM-base-apparel-coming-soon-master/blob/main/screenshots/mobile.png)
+![](https://github.com/dovelym/FEM-base-apparel-coming-soon-master/blob/main/screenshots/mobile.png)
 
 ### Links
 
-[My Solution](https://dusvimarin.github.io/FEM-base-apparel-coming-soon-master)
+[My Solution](https://dovelym.github.io/FEM-base-apparel-coming-soon-master)
 
 
 ## My process
@@ -66,5 +66,5 @@ I learned to use elements flexbox.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvimarin](https://github.com/dusvimarin)
+[@dusvy_m](https://github.com/dovelym)
 
